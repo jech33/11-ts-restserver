@@ -7,7 +7,7 @@ All typescript files are compiled in the dist folder (see how to configure TS), 
 
 $ node dist/app.js
 
-// Or if using nodemon in development environment
+// Or if using nodemon in a development environment
 
 $ nodemon dist/app.js
 
