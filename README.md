@@ -1,5 +1,6 @@
 # 11-ts-restserver
 This is a project that resembles 07-rest-server in a shorter scale. It has the same functionality but is now written in TypeScript!
+Programs needed: TablePlus and XAMPP for db management (SQL, MariaDB)
 
 ## How to run app
 All typescript files are compiled in the dist folder (see how to configure TS), so to run the project instead of typing node app, now the command changes a little bit to:
