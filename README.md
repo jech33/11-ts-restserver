@@ -18,9 +18,9 @@ $ nodemon dist/app.js
 In order to initialize the project, there's some configurations that are needed:
 ```
 $ npm i -g typescript           // To install ts globally
-$ npm i typescript --save-dev   // To install ts in project dependencies
+$ npm i typescript --save-dev   // To install ts in project dependencies (development)
 $ tsc --init                    // To initialize typescript tsconfig.json
-$ npm i tslint --save-dev       // To install ts in project dependencies
+$ npm i tslint --save-dev       // To install tslint in project dependencies (development)
 ```
 
 The default configuration of tsconfig.json has to follow the next pattern:
